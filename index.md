@@ -14,7 +14,7 @@ Zero-shot text-based singing voice editing enables users to edit the singing con
   margin-right: auto;
   width: 80%;" />
 ## 1 Audio Samples
-*Note: GT denotes the original audio(the input audio to be edited)*<br><br>
+*Note: GT denotes the original audio(the input audio to be edited)*<br>
 
 #### Exp. 1:
 
@@ -212,11 +212,11 @@ insertion: 朋友如果爱的那么苦痛 (<BOS> p eng | y ou # r u | g uo # ai 
         </tr>
         
         <tr>
-          <td><img src="images/MOS1/GT/0000000001.png" width="100%"/></td>
-          <td><img src="images/MOS1/GT(mel+pwg)/0000000001.png" width="100%"/></td>
-          <td><img src="images/MOS1/editsinger(insertion)/0000000001.png" width="100%"/></td>
-          <td><img src="images/CMOS/insertion/womva/0000000001.png" width="100%"/></td>
-          <td><img src="images/CMOS/insertion/wogan/0000000001.png" width="100%"/></td>
+          <td><img src="images/MOS1/GT/0000000001.png" width="150%"/></td>
+          <td><img src="images/MOS1/GT(mel+pwg)/0000000001.png" width="150%"/></td>
+          <td><img src="images/MOS1/editsinger(insertion)/0000000001.png" width="150%"/></td>
+          <td><img src="images/CMOS/insertion/womva/0000000001.png" width="150%"/></td>
+          <td><img src="images/CMOS/insertion/wogan/0000000001.png" width="150%"/></td>
         </tr>
             
     </tbody>
@@ -247,11 +247,11 @@ insertion: 几朵孤独的云在阴天忘了该往哪儿走 (<BOS> j i | d uo # 
         </tr>
             
         <tr>
-          <td><img src="images/MOS1/GT/0000000011.png" width="100%"/></td>
-          <td><img src="images/MOS1/GT(mel+pwg)/0000000011.png" width="100%"/></td>
-          <td><img src="images/MOS1/editsinger(insertion)/0000000011.png" width="100%"/></td>
-          <td><img src="images/CMOS/insertion/womva/0000000011.png" width="100%"/></td>
-          <td><img src="images/CMOS/insertion/wogan/0000000011.png" width="100%"/></td>
+          <td><img src="images/MOS1/GT/0000000011.png" width="150%"/></td>
+          <td><img src="images/MOS1/GT(mel+pwg)/0000000011.png" width="150%"/></td>
+          <td><img src="images/MOS1/editsinger(insertion)/0000000011.png" width="150%"/></td>
+          <td><img src="images/CMOS/insertion/womva/0000000011.png" width="150%"/></td>
+          <td><img src="images/CMOS/insertion/wogan/0000000011.png" width="150%"/></td>
         </tr>    
         
     </tbody>
@@ -284,11 +284,11 @@ deletion: 你为他等在雨中 (<BOS> n i # w ei # t a # d eng # z ai # y u # z
         </tr>
         
         <tr>
-          <td><img src="images/MOS1/GT/0000000003.png" width="100%"/></td>
-          <td><img src="images/MOS1/GT(mel+pwg)/0000000003.png" width="100%"/></td>
-          <td><img src="images/MOS1/editsinger(deletion)/0000000003.png" width="100%"/></td>
-          <td><img src="images/CMOS/deletion/womva/0000000003.png" width="100%"/></td>
-          <td><img src="images/CMOS/deletion/wogan/0000000003.png" width="100%"/></td>
+          <td><img src="images/MOS1/GT/0000000003.png" width="150%"/></td>
+          <td><img src="images/MOS1/GT(mel+pwg)/0000000003.png" width="150%"/></td>
+          <td><img src="images/MOS1/editsinger(deletion)/0000000003.png" width="150%"/></td>
+          <td><img src="images/CMOS/deletion/womva/0000000003.png" width="150%"/></td>
+          <td><img src="images/CMOS/deletion/wogan/0000000003.png" width="150%"/></td>
         </tr>
         
     </tbody>
@@ -319,11 +319,11 @@ deletion: 几朵云忘了该往哪儿走 (<BOS> j i | d uo # y un | w ang # l e 
         </tr>
             
         <tr>
-          <td><img src="images/MOS1/GT/0000000011.png" width="100%"/></td>
-          <td><img src="images/MOS1/GT(mel+pwg)/0000000011.png" width="100%"/></td>
-          <td><img src="images/MOS1/editsinger(deletion)/0000000011.png" width="100%"/></td>
-          <td><img src="images/CMOS/deletion/womva/0000000011.png" width="100%"/></td>
-          <td><img src="images/CMOS/deletion/wogan/0000000011.png" width="100%"/></td>
+          <td><img src="images/MOS1/GT/0000000011.png" width="150%"/></td>
+          <td><img src="images/MOS1/GT(mel+pwg)/0000000011.png" width="150%"/></td>
+          <td><img src="images/MOS1/editsinger(deletion)/0000000011.png" width="150%"/></td>
+          <td><img src="images/CMOS/deletion/womva/0000000011.png" width="150%"/></td>
+          <td><img src="images/CMOS/deletion/wogan/0000000011.png" width="150%"/></td>
         </tr>   
             
     </tbody>
@@ -359,13 +359,13 @@ replacement: 当当当当当当当当当 (<BOS> d ang | d ang # d ang | d ang # 
         </tr>
             
         <tr>
-          <td><img src="images/MOS1/GT/0000000004.png" width="100%"/></td>
-          <td><img src="images/MOS1/GT(mel+pwg)/0000000004.png" width="100%"/></td>
-          <td><img src="images/MOS2/editsinger(replacement)/0000000004.png" width="100%"/></td>
-          <td><img src="images/MOS2/direct/0000000004.png" width="100%"/></td>
-          <td><img src="images/MOS2/context-aware/0000000004.png" width="100%"/></td>
-          <td><img src="images/MOS2/wovqvae/0000000004.png" width="100%"/></td>
-          <td><img src="images/MOS2/wogan/0000000004.png" width="100%"/></td>
+          <td><img src="images/MOS1/GT/0000000004.png" width="150%"/></td>
+          <td><img src="images/MOS1/GT(mel+pwg)/0000000004.png" width="150%"/></td>
+          <td><img src="images/MOS2/editsinger(replacement)/0000000004.png" width="150%"/></td>
+          <td><img src="images/MOS2/direct/0000000004.png" width="150%"/></td>
+          <td><img src="images/MOS2/context-aware/0000000004.png" width="150%"/></td>
+          <td><img src="images/MOS2/wovqvae/0000000004.png" width="150%"/></td>
+          <td><img src="images/MOS2/wogan/0000000004.png" width="150%"/></td>
         </tr>    
             
     </tbody>
@@ -400,13 +400,13 @@ replacement: 当当当当当当 (<BOS> d ang | d ang # d ang | d ang # d ang | d
         </tr>
         
         <tr>
-          <td><img src="images/MOS1/GT/0000000020.png" width="100%"/></td>
-          <td><img src="images/MOS1/GT(mel+pwg)/0000000020.png" width="100%"/></td>
-          <td><img src="images/MOS2/editsinger(replacement)/0000000020.png" width="100%"/></td>
-          <td><img src="images/MOS2/direct/0000000020.png" width="100%"/></td>
-          <td><img src="images/MOS2/context-aware/0000000020.png" width="100%"/></td>
-          <td><img src="images/MOS2/wovqvae/0000000020.png" width="100%"/></td>
-          <td><img src="images/MOS2/wogan/0000000020.png" width="100%"/></td>
+          <td><img src="images/MOS1/GT/0000000020.png" width="150%"/></td>
+          <td><img src="images/MOS1/GT(mel+pwg)/0000000020.png" width="150%"/></td>
+          <td><img src="images/MOS2/editsinger(replacement)/0000000020.png" width="150%"/></td>
+          <td><img src="images/MOS2/direct/0000000020.png" width="150%"/></td>
+          <td><img src="images/MOS2/context-aware/0000000020.png" width="150%"/></td>
+          <td><img src="images/MOS2/wovqvae/0000000020.png" width="150%"/></td>
+          <td><img src="images/MOS2/wogan/0000000020.png" width="150%"/></td>
         </tr>    
         
     </tbody>
