@@ -14,8 +14,9 @@ Zero-shot text-based singing voice editing enables users to edit the singing con
   margin-right: auto;
   width: 80%;" />
 ## 1 Audio Samples
-#### Exp. 1:
 *Note: GT denotes the original audio(the input audio to be edited)*<br><br>
+
+#### Exp. 1:
 
 original lyrics: 朋友爱得那么苦痛 (<BOS> p eng | y ou # ai | d e # n a | m e # k u | t ong <EOS>) <br>
 insertion: 朋友如果爱的那么苦痛 (<BOS> p eng | y ou # r u | g uo # ai # d e # n a | m e # k u | t ong <EOS>) <br>
