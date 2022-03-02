@@ -412,3 +412,4 @@ replacement: 当当当当当当 (<BOS> d ang | d ang # d ang | d ang # d ang | d
     </tbody>
     </table>
 </div>
+*Here can fully demonstrate the superior performance of Editsinger(replacement), and it even supports the replacement of entire sentences, which is not available in previous work. Directly migrating the original prosody (Direct) to the new word without considering the attributes of the word will lead to a decrease in the sense of hearing, and ignoring the prosody of the corresponding position (w/o FPIP) will lead to a decrease in the similarity with the original song.*
