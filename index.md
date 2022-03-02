@@ -14,7 +14,7 @@ Zero-shot text-based singing voice editing enables users to edit the singing con
   margin-right: auto;
   width: 80%;" />
 ## 1 Audio Samples
-*Note: GT denotes the original audio(the input audio to be edited)*<br>
+*Note: GT denotes the original audio(the input audio to be edited)*
 
 #### Exp. 1:
 
@@ -331,6 +331,7 @@ deletion: 几朵云忘了该往哪儿走 (<BOS> j i | d uo # y un | w ang # l e 
 </div>
 
 ### 2.3 Replacement (Dang Test)
+*Note: Here can fully demonstrate the superior performance of Editsinger(replacement), and it even supports the replacement of entire sentences, which is not available in previous work. "Dang" here can be understood as any character. We have tested many other characters and done many experiments including part and whole sentence replacement experiments, which are also very effective. Directly migrating the original prosody (Direct) to the new word without considering the attributes of the word will lead to a decrease in the sense of hearing, and ignoring the prosody of the corresponding position (w/o FPIP) will lead to a decrease in the similarity with the original song.*
 #### Exp. 1:
 original lyrics: 想挡挡你心口里的风 (<BOS> x iang # d ang # d ang # n i # x in # k ou | l i # d e # f eng <EOS>) <br>
 replacement: 当当当当当当当当当 (<BOS> d ang | d ang # d ang | d ang # d ang | d ang # d ang | d ang # d ang <EOS>) <br>
@@ -412,4 +413,3 @@ replacement: 当当当当当当 (<BOS> d ang | d ang # d ang | d ang # d ang | d
     </tbody>
     </table>
 </div>
-*Here can fully demonstrate the superior performance of Editsinger(replacement), and it even supports the replacement of entire sentences, which is not available in previous work. "Dang" here can be understood as any character. We have tested many other characters and done many experiments including part and whole sentence replacement experiments, which are also very effective. Directly migrating the original prosody (Direct) to the new word without considering the attributes of the word will lead to a decrease in the sense of hearing, and ignoring the prosody of the corresponding position (w/o FPIP) will lead to a decrease in the similarity with the original song.*
