@@ -404,6 +404,14 @@ original lyrics: 朋友爱得那么苦痛 (<BOS> p eng | y ou # ai | d e # n a |
   	  <td><audio style="width: 150px;" controls="" ><source src="resources/more/deletion/0000000001_3.wav" type="audio/wav"></audio></td>
         </tr>    
         
+	<tr>
+	  <td>replacement</td>
+            <td></td>
+            <td><audio style="width: 150px;" controls="" ><source src="resources/more/replacement/0000000001_1.wav" type="audio/wav"></audio></td>
+            <td><audio style="width: 150px;" controls="" ><source src="resources/more/replacement/0000000001_2.wav" type="audio/wav"></audio></td>
+  	  <td><audio style="width: 150px;" controls="" ><source src="resources/more/replacement/0000000001_3.wav" type="audio/wav"></audio></td>
+        </tr>    
+
     </tbody>
     </table>
 </div>
