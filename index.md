@@ -13,6 +13,9 @@ Zero-shot text-based singing voice editing enables users to edit the singing con
   margin-left: auto;
   margin-right: auto;
   width: 80%;" />
+
+The first two sections (Audio Samples & Method Analyses) are some samples of experiments in the paper.<br>
+The third section (More Samples) provides more samples of different aspects (e.g., comparisons of different editing positions).
 ## 1 Audio Samples
 *Note: GT denotes the original audio(the input audio to be edited)*
 
@@ -379,7 +382,7 @@ original lyrics: 朋友爱得那么苦痛 (<BOS> p eng | y ou # ai | d e # n a |
             <th>Type</th>
             <th>GT</th>
             <th>Begining</th>
-            <th>middle</th>
+            <th>Middle</th>
             <th>End</th>
         </tr>
         </thead>
