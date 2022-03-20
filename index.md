@@ -210,14 +210,6 @@ insertion: 朋友如果爱的那么苦痛 (<BOS> p eng | y ou # r u | g uo # ai 
             <td><audio style="width: 150px;" controls="" ><source src="resources/CMOS/insertion/womva/0000000001.wav" type="audio/wav"></audio></td>
             <td><audio style="width: 150px;" controls="" ><source src="resources/CMOS/insertion/wogan/0000000001.wav" type="audio/wav"></audio></td>
         </tr>
-        
-        <tr>
-          <td><img src="images/MOS1/GT/0000000001.png" width="150px"/></td>
-          <td><img src="images/MOS1/GT(mel+pwg)/0000000001.png" width="150px"/></td>
-          <td><img src="images/MOS1/editsinger(insertion)/0000000001.png" width="150px"/></td>
-          <td><img src="images/CMOS/insertion/womva/0000000001.png" width="150px"/></td>
-          <td><img src="images/CMOS/insertion/wogan/0000000001.png" width="150px"/></td>
-        </tr>
             
     </tbody>
     </table>
@@ -246,14 +238,7 @@ insertion: 几朵孤独的云在阴天忘了该往哪儿走 (<BOS> j i | d uo # 
             <td><audio style="width: 150px;" controls="" ><source src="resources/CMOS/insertion/wogan/0000000011.wav" type="audio/wav"></audio></td>
         </tr>
             
-        <tr>
-          <td><img src="images/MOS1/GT/0000000011.png" width="150px"/></td>
-          <td><img src="images/MOS1/GT(mel+pwg)/0000000011.png" width="150px"/></td>
-          <td><img src="images/MOS1/editsinger(insertion)/0000000011.png" width="150px"/></td>
-          <td><img src="images/CMOS/insertion/womva/0000000011.png" width="150px"/></td>
-          <td><img src="images/CMOS/insertion/wogan/0000000011.png" width="150px"/></td>
-        </tr>    
-        
+
     </tbody>
     </table>
 </div>
@@ -283,13 +268,7 @@ deletion: 你为他等在雨中 (<BOS> n i # w ei # t a # d eng # z ai # y u # z
             <td><audio style="width: 150px;" controls="" ><source src="resources/CMOS/deletion/wogan/0000000003.wav" type="audio/wav"></audio></td>
         </tr>
         
-        <tr>
-          <td><img src="images/MOS1/GT/0000000003.png" width="150px"/></td>
-          <td><img src="images/MOS1/GT(mel+pwg)/0000000003.png" width="150px"/></td>
-          <td><img src="images/MOS1/editsinger(deletion)/0000000003.png" width="150px"/></td>
-          <td><img src="images/CMOS/deletion/womva/0000000003.png" width="150px"/></td>
-          <td><img src="images/CMOS/deletion/wogan/0000000003.png" width="150px"/></td>
-        </tr>
+
         
     </tbody>
     </table>
@@ -318,13 +297,6 @@ deletion: 几朵云忘了该往哪儿走 (<BOS> j i | d uo # y un | w ang # l e 
             <td><audio style="width: 150px;" controls="" ><source src="resources/CMOS/deletion/wogan/0000000011.wav" type="audio/wav"></audio></td>
         </tr>
             
-        <tr>
-          <td><img src="images/MOS1/GT/0000000011.png" width="150px"/></td>
-          <td><img src="images/MOS1/GT(mel+pwg)/0000000011.png" width="150px"/></td>
-          <td><img src="images/MOS1/editsinger(deletion)/0000000011.png" width="150px"/></td>
-          <td><img src="images/CMOS/deletion/womva/0000000011.png" width="150px"/></td>
-          <td><img src="images/CMOS/deletion/wogan/0000000011.png" width="150px"/></td>
-        </tr>   
             
     </tbody>
     </table>
@@ -358,17 +330,7 @@ replacement: 当当当当当当当当当 (<BOS> d ang | d ang # d ang | d ang # 
             <td><audio style="width: 150px;" controls="" ><source src="resources/MOS2/wovqvae/0000000004.wav" type="audio/wav"></audio></td>
             <td><audio style="width: 150px;" controls="" ><source src="resources/MOS2/wogan/0000000004.wav" type="audio/wav"></audio></td>
         </tr>
-            
-        <tr>
-          <td><img src="images/MOS1/GT/0000000004.png" width="150px"/></td>
-          <td><img src="images/MOS1/GT(mel+pwg)/0000000004.png" width="150px"/></td>
-          <td><img src="images/MOS2/editsinger(replacement)/0000000004.png" width="150px"/></td>
-          <td><img src="images/MOS2/direct/0000000004.png" width="150px"/></td>
-          <td><img src="images/MOS2/context-aware/0000000004.png" width="150px"/></td>
-          <td><img src="images/MOS2/wovqvae/0000000004.png" width="150px"/></td>
-          <td><img src="images/MOS2/wogan/0000000004.png" width="150px"/></td>
-        </tr>    
-            
+
     </tbody>
     </table>
 </div>
@@ -399,16 +361,7 @@ replacement: 当当当当当当 (<BOS> d ang | d ang # d ang | d ang # d ang | d
             <td><audio style="width: 150px;" controls="" ><source src="resources/MOS2/wovqvae/0000000020.wav" type="audio/wav"></audio></td>
             <td><audio style="width: 150px;" controls="" ><source src="resources/MOS2/wogan/0000000020.wav" type="audio/wav"></audio></td>
         </tr>
-        
-        <tr>
-          <td><img src="images/MOS1/GT/0000000020.png" width="150px"/></td>
-          <td><img src="images/MOS1/GT(mel+pwg)/0000000020.png" width="150px"/></td>
-          <td><img src="images/MOS2/editsinger(replacement)/0000000020.png" width="150px"/></td>
-          <td><img src="images/MOS2/direct/0000000020.png" width="150px"/></td>
-          <td><img src="images/MOS2/context-aware/0000000020.png" width="150px"/></td>
-          <td><img src="images/MOS2/wovqvae/0000000020.png" width="150px"/></td>
-          <td><img src="images/MOS2/wogan/0000000020.png" width="150px"/></td>
-        </tr>    
+    
         
     </tbody>
     </table>
