@@ -428,7 +428,7 @@ original lyrics: 朋友爱得那么苦痛 (<BOS> p eng | y ou # ai | d e # n a |
 	  <td></td>
             <td><font color="red">认真(<strike>朋友</strike>)</font>爱的那么苦痛</td>
             <td>朋友爱的<font color="red">认真(<strike>那么</strike>)</font>苦痛</td>
-	  <td>朋友爱的那么<font color="red">认真(<strike>苦痛</strike>)</font></font></td>
+	  <td>朋友爱的那么<font color="red">认真(<strike>苦痛</strike>)</font></td>
         </tr>    
 
     </tbody>
