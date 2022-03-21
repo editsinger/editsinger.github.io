@@ -54,7 +54,7 @@ deletion: 朋友爱的<font color="red">(<strike>那么</strike>)</font>苦痛 �
 #### Exp. 2:
 original lyrics: 爱可以不问对错 —— <BOS> ai # k e | y i # b u | w en # d ui | c uo <EOS> <br>
 insertion: 爱<font color="red">怎么</font>可以不问对错 —— <BOS> ai # <font color="red">z en | m e #</font> k e | y i # b u | w en # d ui | c uo <EOS> <br>
-replacement: 爱<font color="red">怎么(<strike>可以</strike>)</font>不问对错 —— <BOS> ai #<font color="red"> z en | m e #(<strike> k e | y i #</strike>) </font>  b u | w en # d ui | c uo <EOS> <br>
+replacement: 爱<font color="red">怎么(<strike>可以</strike>)</font>不问对错 —— <BOS> ai #<font color="red"> z en | m e # (<strike>k e | y i #</strike>) </font>  b u | w en # d ui | c uo <EOS> <br>
 deletion: 爱<font color="red">(<strike>可以</strike>)</font>不问对错 —— <BOS> ai # <font color="red">(<strike> k e | y i #</strike>)</font> b u | w en # d ui | c uo <EOS> <br>
 <div>
     <table style='width: 100%;'>
@@ -81,9 +81,9 @@ deletion: 爱<font color="red">(<strike>可以</strike>)</font>不问对错 —�
 
 #### Exp. 3:
 original lyrics: 你何苦非为他等在雨中 —— <BOS> n i # h e | k u # f ei | w ei # t a # d eng # z ai # y u # zh ong <EOS> <br>
-insertion: 你何苦非为他<font color="red">傻傻</font>等在雨中 —— <BOS> n i # h e | k u # f ei | w ei # t a # sh a | sh a # d eng # z ai # y u # zh ong <EOS> <br>
-replacement: 你何苦非为他<font color="red">伫立风(<strike>等在雨</strike>)</font>中 —— <BOS> n i # h e | k u # f ei | w ei # t a # zh u | l i # f eng | zh ong <EOS> <br>
-deletion: 你<font color="red">(<strike>何苦非</strike>)</font>为他等在雨中 —— <BOS> n i # w ei # t a # d eng # z ai # y u # zh ong <EOS> <br>
+insertion: 你何苦非为他<font color="red">傻傻</font>等在雨中 —— <BOS> n i # h e | k u # f ei | w ei # t a # <font color="red">sh a | sh a #</font> d eng # z ai # y u # zh ong <EOS> <br>
+replacement: 你何苦非为他<font color="red">伫立风(<strike>等在雨</strike>)</font>中 —— <BOS> n i # h e | k u # f ei | w ei # t a # <font color="red">zh u | l i # f eng |(<strike> d eng # z ai # y u #</strike>)</font> zh ong <EOS> <br>
+deletion: 你<font color="red">(<strike>何苦非</strike>)</font>为他等在雨中 —— <BOS> n i # <font color="red">(<strike> h e | k u # f ei |</strike>)</font>w ei # t a # d eng # z ai # y u # zh ong <EOS> <br>
 <div>
     <table style='width: 100%;'>
         <thead>
