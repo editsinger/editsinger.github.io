@@ -373,7 +373,7 @@ replacement: 当当当当当当 (<BOS> d ang | d ang # d ang | d ang # d ang | d
 
 
 ## 3 More Samples
-### Editing at Different Positions
+### Editing at Different Positions (Begining/Middle/End of the Sentence)
 original lyrics: 朋友爱得那么苦痛 (<BOS> p eng | y ou # ai | d e # n a | m e # k u | t ong <EOS>) <br>
 <audio style="width: 150px;" controls="" ><source src="resources/MOS1/GT(mel+pwg)/0000000001.wav" type="audio/wav"></audio>
 <div>
