@@ -22,7 +22,7 @@ The third section (More Samples) provides more samples of different aspects (e.g
 #### Exp. 1:
 
 original lyrics: 朋友爱得那么苦痛 (<BOS> p eng | y ou # ai | d e # n a | m e # k u | t ong <EOS>) <br>
-insertion: 朋友如果爱的那么苦痛 (<BOS> p eng | y ou # r u | g uo # ai # d e # n a | m e # k u | t ong <EOS>) <br>
+insertion: 朋友<font color="red">如果</font>爱的那么苦痛 (<BOS> p eng | y ou # <font color="red">r u | g uo #</font> ai # d e # n a | m e # k u | t ong <EOS>) <br>
 replacement: 朋友爱的那么认真 (<BOS> p eng | y ou # ai # d e # n a | m e # r en | zh en <EOS>) <br>
 deletion: 朋友爱的苦痛 (<BOS> p eng | y ou # ai # d e # k u | t ong <EOS>) <br>
 <div>
