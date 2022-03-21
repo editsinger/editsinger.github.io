@@ -14,8 +14,8 @@ Zero-shot text-based singing voice editing enables users to edit the singing con
   margin-right: auto;
   width: 80%;" />
 
-The first two sections (Audio Samples & Method Analyses) are some samples of experiments in the paper.<br>
-The third section (More Samples) provides more samples of different aspects (e.g., comparisons of different editing positions).
+** The first two sections (Audio Samples & Method Analyses) are some samples of experiments in the paper.<br> **
+** The third section (More Samples) provides more samples of different aspects (e.g., comparisons of different editing positions). **
 ## 1 Audio Samples
 *Note: GT denotes the original audio(the input audio to be edited)*
 
@@ -23,8 +23,8 @@ The third section (More Samples) provides more samples of different aspects (e.g
 
 original lyrics: 朋友爱得那么苦痛 (<BOS> p eng | y ou # ai | d e # n a | m e # k u | t ong <EOS>) <br>
 insertion: 朋友<font color="red">如果</font>爱的那么苦痛 (<BOS> p eng | y ou # r u | g uo # ai # d e # n a | m e # k u | t ong <EOS>) <br>
-replacement: 朋友爱的那么<font color="red">认真<strike>苦痛</strike></font> (<BOS> p eng | y ou # ai # d e # n a | m e # r en | zh en <EOS>) <br>
-deletion: 朋友爱的<font color="red"><strike>那么</strike></font>苦痛 (<BOS> p eng | y ou # ai # d e # k u | t ong <EOS>) <br>
+replacement: 朋友爱的那么<font color="red">认真(<strike>苦痛</strike>)</font> (<BOS> p eng | y ou # ai # d e # n a | m e # r en | zh en <EOS>) <br>
+deletion: 朋友爱的<font color="red">(<strike>那么</strike>)</font>苦痛 (<BOS> p eng | y ou # ai # d e # k u | t ong <EOS>) <br>
 <div>
     <table style='width: 100%;'>
         <thead>
