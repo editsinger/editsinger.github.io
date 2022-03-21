@@ -22,10 +22,10 @@ Zero-shot text-based singing voice editing enables users to edit the singing con
 
 #### Exp. 1:
 
-original lyrics: 朋友爱得那么苦痛 (<BOS> p eng | y ou # ai | d e # n a | m e # k u | t ong <EOS>) <br>
-insertion: 朋友<font color="red">如果</font>爱的那么苦痛 (<BOS> p eng | y ou # <font color="red">r u | g uo #</font> ai # d e # n a | m e # k u | t ong <EOS>) <br>
-replacement: 朋友爱的那么<font color="red">认真(<strike>苦痛</strike>)</font> (<BOS> p eng | y ou # ai # d e # n a | m e # <font color="red">r en | zh en <strike> k u | t ong</strike> </font> <EOS>) <br>
-deletion: 朋友爱的<font color="red">(<strike>那么</strike>)</font>苦痛 (<BOS> p eng | y ou # ai # d e # <font color="red"> <strike> n a | m e #</strike> </font>k u | t ong <EOS>) <br>
+original lyrics: 朋友爱得那么苦痛 —— <BOS> p eng | y ou # ai | d e # n a | m e # k u | t ong <EOS> <br>
+insertion: 朋友<font color="red">如果</font>爱的那么苦痛 —— <BOS> p eng | y ou # <font color="red">r u | g uo #</font> ai # d e # n a | m e # k u | t ong <EOS> <br>
+replacement: 朋友爱的那么<font color="red">认真(<strike>苦痛</strike>)</font> —— <BOS> p eng | y ou # ai # d e # n a | m e # <font color="red">r en | zh en (<strike> k u | t ong</strike>) </font> <EOS> <br>
+deletion: 朋友爱的<font color="red">(<strike>那么</strike>)</font>苦痛 —— <BOS> p eng | y ou # ai # d e # <font color="red"> (<strike> n a | m e #</strike>) </font>k u | t ong <EOS> <br>
 <div>
     <table style='width: 100%;'>
         <thead>
