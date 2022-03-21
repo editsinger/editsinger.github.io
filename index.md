@@ -14,8 +14,8 @@ Zero-shot text-based singing voice editing enables users to edit the singing con
   margin-right: auto;
   width: 80%;" />
 
-** The first two sections (Audio Samples & Method Analyses) are some samples of experiments in the paper.<br> **
-** The third section (More Samples) provides more samples of different aspects (e.g., comparisons of different editing positions). **
+**The first two sections (Audio Samples & Method Analyses) are some samples of experiments in the paper.**<br> 
+**The third section (More Samples) provides more samples of different aspects (e.g., comparisons of different editing positions).**
 ## 1 Audio Samples
 *Note: GT denotes the original audio(the input audio to be edited)*
 
