@@ -375,13 +375,12 @@ replacement: 当当当当当当 (<BOS> d ang | d ang # d ang | d ang # d ang | d
 ## 3 More Samples
 ### Editing at Different Positions
 original lyrics: 朋友爱得那么苦痛 (<BOS> p eng | y ou # ai | d e # n a | m e # k u | t ong <EOS>) <br>
-
+<audio style="width: 150px;" controls="" ><source src="resources/MOS1/GT(mel+pwg)/0000000001.wav" type="audio/wav"></audio>
 <div>
     <table style='width: 100%;'>
         <thead>
         <tr>
             <th>Type</th>
-            <th>GT</th>
             <th>Begining</th>
             <th>Middle</th>
             <th>End</th>
@@ -391,7 +390,6 @@ original lyrics: 朋友爱得那么苦痛 (<BOS> p eng | y ou # ai | d e # n a |
 
         <tr>
 	  <td>insertion</td>
-            <td><audio style="width: 150px;" controls="" ><source src="resources/MOS1/GT(mel+pwg)/0000000001.wav" type="audio/wav"></audio></td>
             <td><audio style="width: 150px;" controls="" ><source src="resources/more/insertion/0000000001_1.wav" type="audio/wav"></audio></td>
             <td><audio style="width: 150px;" controls="" ><source src="resources/more/insertion/0000000001_2.wav" type="audio/wav"></audio></td>
   	  <td><audio style="width: 150px;" controls="" ><source src="resources/more/insertion/0000000001_3.wav" type="audio/wav"></audio></td>
@@ -399,7 +397,6 @@ original lyrics: 朋友爱得那么苦痛 (<BOS> p eng | y ou # ai | d e # n a |
 
         <tr>
 	  <td></td>
-            <td></td>
             <td><font color="red">如果</font>朋友爱的那么苦痛</td>
             <td>朋友<font color="red">如果</font>爱的那么苦痛</td>
 	  <td>朋友爱的那么苦痛<font color="red">如果</font></td>
@@ -407,7 +404,6 @@ original lyrics: 朋友爱得那么苦痛 (<BOS> p eng | y ou # ai | d e # n a |
 
         <tr>
 	  <td>deletion</td>
-            <td></td>
             <td><audio style="width: 150px;" controls="" ><source src="resources/more/deletion/0000000001_1.wav" type="audio/wav"></audio></td>
             <td><audio style="width: 150px;" controls="" ><source src="resources/more/deletion/0000000001_2.wav" type="audio/wav"></audio></td>
   	  <td><audio style="width: 150px;" controls="" ><source src="resources/more/deletion/0000000001_3.wav" type="audio/wav"></audio></td>
@@ -416,7 +412,6 @@ original lyrics: 朋友爱得那么苦痛 (<BOS> p eng | y ou # ai | d e # n a |
 
         <tr>
 	  <td></td>
-            <td></td>
             <td><font color="red">(<strike>朋友</strike>)</font>爱的那么苦痛</td>
  	  <td>朋友爱的<font color="red">(<strike>那么</strike>)</font>苦痛</td>
 	  <td>朋友爱的那么苦<font color="red">(<strike>痛</strike>)</font></td>
@@ -424,7 +419,6 @@ original lyrics: 朋友爱得那么苦痛 (<BOS> p eng | y ou # ai | d e # n a |
 
 	<tr>
 	  <td>replacement</td>
-            <td></td>
             <td><audio style="width: 150px;" controls="" ><source src="resources/more/replacement/0000000001_1.wav" type="audio/wav"></audio></td>
             <td><audio style="width: 150px;" controls="" ><source src="resources/more/replacement/0000000001_2.wav" type="audio/wav"></audio></td>
   	  <td><audio style="width: 150px;" controls="" ><source src="resources/more/replacement/0000000001_3.wav" type="audio/wav"></audio></td>
@@ -432,7 +426,6 @@ original lyrics: 朋友爱得那么苦痛 (<BOS> p eng | y ou # ai | d e # n a |
 
 	<tr>
 	  <td></td>
-            <td></td>
             <td><font color="red">认真(<strike>朋友</strike>)</font>爱的那么苦痛</td>
             <td>朋友爱的<font color="red">认真(<strike>那么</strike>)</font>苦痛</td>
 	  <td>朋友爱的那么<font color="red">认真(<strike>苦痛</strike>)</font></font></td>
