@@ -193,7 +193,7 @@ deletion: 在昏暗<font color="red">(<strike>中</strike>)</font>的我 (<BOS> 
 ### 2.1 Insertion
 #### Exp. 1:
 original lyrics: 朋友爱得那么苦痛 (<BOS> p eng | y ou # ai | d e # n a | m e # k u | t ong <EOS>) <br>
-insertion: 朋友如果爱的那么苦痛 (<BOS> p eng | y ou # r u | g uo # ai # d e # n a | m e # k u | t ong <EOS>) <br>
+insertion: 朋友<font color="red">如果</font>爱的那么苦痛 (<BOS> p eng | y ou # r u | g uo # ai # d e # n a | m e # k u | t ong <EOS>) <br>
 <div>
     <table style='width: 100%;'>
         <thead>
@@ -220,7 +220,7 @@ insertion: 朋友如果爱的那么苦痛 (<BOS> p eng | y ou # r u | g uo # ai 
 
 #### Exp. 2:
 original lyrics: 几朵云在阴天忘了该往哪儿走 (<BOS> j i | d uo # y un # z ai # y in | t ian # w ang # l e # g ai # w ang # n a | r # z ou <EOS>) <br>
-insertion: 几朵孤独的云在阴天忘了该往哪儿走 (<BOS> j i | d uo # g u | d u # d e # y un # z ai # y in | t ian # w ang # l e # g ai # w ang # n a | r # z ou <EOS>) <br>
+insertion: 几朵<font color="red">孤独的</font>云在阴天忘了该往哪儿走 (<BOS> j i | d uo # g u | d u # d e # y un # z ai # y in | t ian # w ang # l e # g ai # w ang # n a | r # z ou <EOS>) <br>
 <div>
     <table style='width: 100%;'>
         <thead>
@@ -250,7 +250,7 @@ insertion: 几朵孤独的云在阴天忘了该往哪儿走 (<BOS> j i | d uo # 
 
 #### Exp. 1:
 original lyrics: 你何苦非为他等在雨中 (<BOS> n i # h e | k u # f ei | w ei # t a # d eng # z ai # y u # zh ong <EOS>) <br>
-deletion: 你为他等在雨中 (<BOS> n i # w ei # t a # d eng # z ai # y u # zh ong <EOS>>) <br>
+deletion: 你<font color="red">(<strike>何苦非</strike>)</font>为他等在雨中 (<BOS> n i # w ei # t a # d eng # z ai # y u # zh ong <EOS>>) <br>
 <div>
     <table style='width: 100%;'>
         <thead>
@@ -279,7 +279,7 @@ deletion: 你为他等在雨中 (<BOS> n i # w ei # t a # d eng # z ai # y u # z
 
 #### Exp. 2:
 original lyrics: 几朵云在阴天忘了该往哪儿走 (<BOS> j i | d uo # y un # z ai # y in | t ian # w ang # l e # g ai # w ang # n a | r # z ou <EOS>) <br>
-deletion: 几朵云忘了该往哪儿走 (<BOS> j i | d uo # y un | w ang # l e # g ai # w ang # n a | r # z ou <EOS>) <br>
+deletion: 几朵云<font color="red">(<strike>在阴天</strike>)</font>忘了该往哪儿走 (<BOS> j i | d uo # y un | w ang # l e # g ai # w ang # n a | r # z ou <EOS>) <br>
 <div>
     <table style='width: 100%;'>
         <thead>
