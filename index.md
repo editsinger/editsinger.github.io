@@ -83,7 +83,7 @@ deletion: 爱<font color="red">(<strike>可以</strike>)</font>不问对错 —�
 original lyrics: 你何苦非为他等在雨中 —— <BOS> n i # h e | k u # f ei | w ei # t a # d eng # z ai # y u # zh ong <EOS> <br>
 insertion: 你何苦非为他<font color="red">傻傻</font>等在雨中 —— <BOS> n i # h e | k u # f ei | w ei # t a # <font color="red">sh a | sh a #</font> d eng # z ai # y u # zh ong <EOS> <br>
 replacement: 你何苦非为他<font color="red">伫立风(<strike>等在雨</strike>)</font>中 —— <BOS> n i # h e | k u # f ei | w ei # t a # <font color="red">zh u | l i # f eng |(<strike> d eng # z ai # y u #</strike>)</font> zh ong <EOS> <br>
-deletion: 你<font color="red">(<strike>何苦非</strike>)</font>为他等在雨中 —— <BOS> n i # <font color="red">(<strike> h e | k u # f ei |</strike>)</font>w ei # t a # d eng # z ai # y u # zh ong <EOS> <br>
+deletion: 你<font color="red">(<strike>何苦非</strike>)</font>为他等在雨中 —— <BOS> n i # <font color="red">(<strike> h e | k u # f ei |</strike>)</font> w ei # t a # d eng # z ai # y u # zh ong <EOS> <br>
 <div>
     <table style='width: 100%;'>
         <thead>
@@ -109,9 +109,9 @@ deletion: 你<font color="red">(<strike>何苦非</strike>)</font>为他等在�
 
 #### Exp. 4:
 original lyrics: 几朵云在阴天忘了该往哪儿走 —— <BOS> j i | d uo # y un # z ai # y in | t ian # w ang # l e # g ai # w ang # n a | r # z ou <EOS> <br>
-insertion: 几朵<font color="red">孤独的</font>云在阴天忘了该往哪儿走 —— <BOS> j i | d uo # g u | d u # d e # y un # z ai # y in | t ian # w ang # l e # g ai # w ang # n a | r # z ou <EOS> <br>
-replacement: 几<font color="red">片叶(<strike>朵云</strike>)</font>在阴天忘了该往哪儿走 —— <BOS> j i | p ian # y e | z ai # y in | t ian # w ang # l e # g ai # w ang # n a | r # z ou <EOS> <br>
-deletion: 几朵云<font color="red">(<strike>在阴天</strike>)</font>忘了该往哪儿走 —— <BOS> j i | d uo # y un | w ang # l e # g ai # w ang # n a | r # z ou <EOS> <br>
+insertion: 几朵<font color="red">孤独的</font>云在阴天忘了该往哪儿走 —— <BOS> j i | d uo # <font color="red">g u | d u # d e #</font> y un # z ai # y in | t ian # w ang # l e # g ai # w ang # n a | r # z ou <EOS> <br>
+replacement: 几<font color="red">片叶(<strike>朵云</strike>)</font>在阴天忘了该往哪儿走 —— <BOS> j i | <font color="red">p ian # y e |(<strike>d uo # y un #</strike>)</font> z ai # y in | t ian # w ang # l e # g ai # w ang # n a | r # z ou <EOS> <br>
+deletion: 几朵云<font color="red">(<strike>在阴天</strike>)</font>忘了该往哪儿走 —— <BOS> j i | d uo # y un | <font color="red">(<strike>z ai # y in | t ian #</strike>)</font> w ang # l e # g ai # w ang # n a | r # z ou <EOS> <br>
 <div>
     <table style='width: 100%;'>
         <thead>
@@ -137,9 +137,9 @@ deletion: 几朵云<font color="red">(<strike>在阴天</strike>)</font>忘了�
 
 #### Exp. 5:
 original lyrics: 被吹进了左耳 —— <BOS> b ei # ch ui | j in # l e # z uo | er <EOS> <br>
-insertion: 被<font color="red">思念</font>吹进了左耳 —— <BOS> b ei # s i | n ian # ch ui | j in # l e # z uo | er <EOS> <br>
-replacement: 被<font color="red">传递到(<strike>吹进了</strike>)</font>左耳 —— <BOS> b ei # ch uan | d i # d ao # z uo | er <EOS> <br>
-deletion: 被吹进<font color="red">(<strike>了</strike>)</font>左耳 —— <BOS> b ei # ch ui | j in # z uo | er <EOS> <br>
+insertion: 被<font color="red">思念</font>吹进了左耳 —— <BOS> b ei # <font color="red">s i | n ian #</font> ch ui | j in # l e # z uo | er <EOS> <br>
+replacement: 被<font color="red">传递到(<strike>吹进了</strike>)</font>左耳 —— <BOS> b ei # <font color="red">ch uan | d i # d ao #(<strike>ch ui | j in # l e # </strike>)</font> z uo | er <EOS> <br>
+deletion: 被吹进<font color="red">(<strike>了</strike>)</font>左耳 —— <BOS> b ei # ch ui | j in # <font color="red">(<strike>l e #</strike>)</font> z uo | er <EOS> <br>
 <div>
     <table style='width: 100%;'>
         <thead>
@@ -165,9 +165,9 @@ deletion: 被吹进<font color="red">(<strike>了</strike>)</font>左耳 —— 
 
 #### Exp. 6:
 original lyrics: 在昏暗中的我 —— <BOS> z ai # h un | an # zh ong # d e # w o <EOS> <br>
-insertion: 在<font color="red">那时</font>昏暗中的我 —— <BOS> z ai # n a | sh i # h un | an # zh ong # d e # w o <EOS> <br>
-replacement: 在昏暗中<font color="red">与你(<strike>的我</strike>)</font> —— <BOS> z ai # h un | an # zh ong # y u # n i <EOS> <br>
-deletion: 在昏暗<font color="red">(<strike>中</strike>)</font>的我 —— <BOS> z ai # h un | an # d e # w o <EOS> <br>
+insertion: 在<font color="red">那时</font>昏暗中的我 —— <BOS> z ai # <font color="red">n a | sh i #</font> h un | an # zh ong # d e # w o <EOS> <br>
+replacement: 在昏暗中<font color="red">与你(<strike>的我</strike>)</font> —— <BOS> z ai # h un | an # zh ong # <font color="red">y u # n i(<strike>d e # w o</strike>)</font> <EOS> <br>
+deletion: 在昏暗<font color="red">(<strike>中</strike>)</font>的我 —— <BOS> z ai # h un | an # <font color="red">(<strike> zh ong # </strike>)</font> d e # w o <EOS> <br>
 <div>
     <table style='width: 100%;'>
         <thead>
@@ -195,7 +195,7 @@ deletion: 在昏暗<font color="red">(<strike>中</strike>)</font>的我 —— 
 ### 2.1 Insertion
 #### Exp. 1:
 original lyrics: 朋友爱得那么苦痛 —— <BOS> p eng | y ou # ai | d e # n a | m e # k u | t ong <EOS> <br>
-insertion: 朋友<font color="red">如果</font>爱的那么苦痛 —— <BOS> p eng | y ou # r u | g uo # ai # d e # n a | m e # k u | t ong <EOS> <br>
+insertion: 朋友<font color="red">如果</font>爱的那么苦痛 —— <BOS> p eng | y ou # <font color="red">r u | g uo #</font> ai # d e # n a | m e # k u | t ong <EOS> <br>
 <div>
     <table style='width: 100%;'>
         <thead>
@@ -222,7 +222,7 @@ insertion: 朋友<font color="red">如果</font>爱的那么苦痛 —— <BOS> 
 
 #### Exp. 2:
 original lyrics: 几朵云在阴天忘了该往哪儿走 —— <BOS> j i | d uo # y un # z ai # y in | t ian # w ang # l e # g ai # w ang # n a | r # z ou <EOS> <br>
-insertion: 几朵<font color="red">孤独的</font>云在阴天忘了该往哪儿走 —— <BOS> j i | d uo # g u | d u # d e # y un # z ai # y in | t ian # w ang # l e # g ai # w ang # n a | r # z ou <EOS> <br>
+insertion: 几朵<font color="red">孤独的</font>云在阴天忘了该往哪儿走 —— <BOS> j i | d uo # <font color="red">g u | d u # d e #</font> y un # z ai # y in | t ian # w ang # l e # g ai # w ang # n a | r # z ou <EOS> <br>
 <div>
     <table style='width: 100%;'>
         <thead>
@@ -252,7 +252,7 @@ insertion: 几朵<font color="red">孤独的</font>云在阴天忘了该往哪�
 
 #### Exp. 1:
 original lyrics: 你何苦非为他等在雨中 —— <BOS> n i # h e | k u # f ei | w ei # t a # d eng # z ai # y u # zh ong <EOS> <br>
-deletion: 你<font color="red">(<strike>何苦非</strike>)</font>为他等在雨中 —— <BOS> n i # w ei # t a # d eng # z ai # y u # zh ong <EOS>> <br>
+deletion: 你<font color="red">(<strike>何苦非</strike>)</font>为他等在雨中 —— <BOS> n i # <font color="red">(<strike>h e | k u # f ei | </strike>)</font> w ei # t a # d eng # z ai # y u # zh ong <EOS>> <br>
 <div>
     <table style='width: 100%;'>
         <thead>
@@ -281,7 +281,7 @@ deletion: 你<font color="red">(<strike>何苦非</strike>)</font>为他等在�
 
 #### Exp. 2:
 original lyrics: 几朵云在阴天忘了该往哪儿走 —— <BOS> j i | d uo # y un # z ai # y in | t ian # w ang # l e # g ai # w ang # n a | r # z ou <EOS> <br>
-deletion: 几朵云<font color="red">(<strike>在阴天</strike>)</font>忘了该往哪儿走 —— <BOS> j i | d uo # y un | w ang # l e # g ai # w ang # n a | r # z ou <EOS> <br>
+deletion: 几朵云<font color="red">(<strike>在阴天</strike>)</font>忘了该往哪儿走 —— <BOS> j i | d uo # y un | <font color="red">(<strike>z ai # y in | t ian #</strike>)</font> w ang # l e # g ai # w ang # n a | r # z ou <EOS> <br>
 <div>
     <table style='width: 100%;'>
         <thead>
