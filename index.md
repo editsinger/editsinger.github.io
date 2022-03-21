@@ -51,9 +51,9 @@ deletion: 朋友爱的<font color="red">(<strike>那么</strike>)</font>苦痛 (
 
 #### Exp. 2:
 original lyrics: 爱可以不问对错 (<BOS> ai # k e | y i # b u | w en # d ui | c uo <EOS>) <br>
-insertion: 爱怎么可以不问对错 (<BOS> ai # z en | m e # k e | y i # b u | w en # d ui | c uo <EOS>) <br>
-replacement: 爱怎么不问对错 (<BOS> ai # z en | m e # b u | w en # d ui | c uo <EOS>) <br>
-deletion: 爱不问对错 (<BOS> ai # b u | w en # d ui | c uo <EOS>) <br>
+insertion: 爱<font color="red">怎么</font>可以不问对错 (<BOS> ai # z en | m e # k e | y i # b u | w en # d ui | c uo <EOS>) <br>
+replacement: 爱<font color="red">怎么(<strike>可以</strike>)</font>不问对错 (<BOS> ai # z en | m e # b u | w en # d ui | c uo <EOS>) <br>
+deletion: 爱<font color="red">(<strike>可以</strike>)</font>不问对错 (<BOS> ai # b u | w en # d ui | c uo <EOS>) <br>
 <div>
     <table style='width: 100%;'>
         <thead>
@@ -79,9 +79,9 @@ deletion: 爱不问对错 (<BOS> ai # b u | w en # d ui | c uo <EOS>) <br>
 
 #### Exp. 3:
 original lyrics: 你何苦非为他等在雨中 (<BOS> n i # h e | k u # f ei | w ei # t a # d eng # z ai # y u # zh ong <EOS>) <br>
-insertion: 你何苦非为他傻傻等在雨中 (<BOS> n i # h e | k u # f ei | w ei # t a # sh a | sh a # d eng # z ai # y u # zh ong <EOS>) <br>
-replacement: 你何苦非为他伫立风中 (<BOS> n i # h e | k u # f ei | w ei # t a # zh u | l i # f eng | zh ong <EOS>) <br>
-deletion: 你为他等在雨中 (<BOS> n i # w ei # t a # d eng # z ai # y u # zh ong <EOS>) <br>
+insertion: 你何苦非为他<font color="red">傻傻</font>等在雨中 (<BOS> n i # h e | k u # f ei | w ei # t a # sh a | sh a # d eng # z ai # y u # zh ong <EOS>) <br>
+replacement: 你何苦非为他<font color="red">伫立风(<strike>等在雨</strike>)</font>中 (<BOS> n i # h e | k u # f ei | w ei # t a # zh u | l i # f eng | zh ong <EOS>) <br>
+deletion: 你<font color="red">(<strike>何苦非</strike>)</font>为他等在雨中 (<BOS> n i # w ei # t a # d eng # z ai # y u # zh ong <EOS>) <br>
 <div>
     <table style='width: 100%;'>
         <thead>
@@ -107,9 +107,9 @@ deletion: 你为他等在雨中 (<BOS> n i # w ei # t a # d eng # z ai # y u # z
 
 #### Exp. 4:
 original lyrics: 几朵云在阴天忘了该往哪儿走 (<BOS> j i | d uo # y un # z ai # y in | t ian # w ang # l e # g ai # w ang # n a | r # z ou <EOS>) <br>
-insertion: 几朵孤独的云在阴天忘了该往哪儿走 (<BOS> j i | d uo # g u | d u # d e # y un # z ai # y in | t ian # w ang # l e # g ai # w ang # n a | r # z ou <EOS>) <br>
-replacement: 几片叶在阴天忘了该往哪儿走 (<BOS> j i | p ian # y e | z ai # y in | t ian # w ang # l e # g ai # w ang # n a | r # z ou <EOS>) <br>
-deletion: 几朵云忘了该往哪儿走 (<BOS> j i | d uo # y un | w ang # l e # g ai # w ang # n a | r # z ou <EOS>) <br>
+insertion: 几朵<font color="red">孤独的</font>云在阴天忘了该往哪儿走 (<BOS> j i | d uo # g u | d u # d e # y un # z ai # y in | t ian # w ang # l e # g ai # w ang # n a | r # z ou <EOS>) <br>
+replacement: 几<font color="red">片叶(<strike>朵云</strike>)</font>在阴天忘了该往哪儿走 (<BOS> j i | p ian # y e | z ai # y in | t ian # w ang # l e # g ai # w ang # n a | r # z ou <EOS>) <br>
+deletion: 几朵云<font color="red">(<strike>在阴天</strike>)</font>忘了该往哪儿走 (<BOS> j i | d uo # y un | w ang # l e # g ai # w ang # n a | r # z ou <EOS>) <br>
 <div>
     <table style='width: 100%;'>
         <thead>
@@ -135,9 +135,9 @@ deletion: 几朵云忘了该往哪儿走 (<BOS> j i | d uo # y un | w ang # l e 
 
 #### Exp. 5:
 original lyrics: 被吹进了左耳 (<BOS> b ei # ch ui | j in # l e # z uo | er <EOS>) <br>
-insertion: 被思念吹进了左耳 (<BOS> b ei # s i | n ian # ch ui | j in # l e # z uo | er <EOS>) <br>
-replacement: 被传递到左耳 (<BOS> b ei # ch uan | d i # d ao # z uo | er <EOS>) <br>
-deletion: 被吹进左耳 (<BOS> b ei # ch ui | j in # z uo | er <EOS>) <br>
+insertion: 被<font color="red">思念</font>吹进了左耳 (<BOS> b ei # s i | n ian # ch ui | j in # l e # z uo | er <EOS>) <br>
+replacement: 被<font color="red">传递到(<strike>吹进了</strike>)</font>左耳 (<BOS> b ei # ch uan | d i # d ao # z uo | er <EOS>) <br>
+deletion: 被吹进<font color="red">(<strike>了</strike>)</font>左耳 (<BOS> b ei # ch ui | j in # z uo | er <EOS>) <br>
 <div>
     <table style='width: 100%;'>
         <thead>
@@ -163,9 +163,9 @@ deletion: 被吹进左耳 (<BOS> b ei # ch ui | j in # z uo | er <EOS>) <br>
 
 #### Exp. 6:
 original lyrics: 在昏暗中的我 (<BOS> z ai # h un | an # zh ong # d e # w o <EOS>) <br>
-insertion: 在那时昏暗中的我 (<BOS> z ai # n a | sh i # h un | an # zh ong # d e # w o <EOS>) <br>
-replacement: 在昏暗中与你 (<BOS> z ai # h un | an # zh ong # y u # n i <EOS>) <br>
-deletion: 在昏暗的我 (<BOS> z ai # h un | an # d e # w o <EOS>) <br>
+insertion: 在<font color="red">那时</font>昏暗中的我 (<BOS> z ai # n a | sh i # h un | an # zh ong # d e # w o <EOS>) <br>
+replacement: 在昏暗中<font color="red">与你(<strike>的我</strike>)</font> (<BOS> z ai # h un | an # zh ong # y u # n i <EOS>) <br>
+deletion: 在昏暗<font color="red">(<strike>中</strike>)</font>的我 (<BOS> z ai # h un | an # d e # w o <EOS>) <br>
 <div>
     <table style='width: 100%;'>
         <thead>
