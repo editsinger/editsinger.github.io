@@ -15,8 +15,8 @@ Zero-shot text-based singing voice editing enables users to edit the singing con
   width: 80%;" />
 
 **Introduction:**<br> 
-<li>In the first two sections (**Audio Samples & Method Analyses**), there are some samples of common performance demonstration and comparison experiments.</li>
-<li>In the third section (**More Samples**), we provide more samples of different aspects (e.g., comparisons of different editing positions).</li>
+<li>In the first two sections (<strong>Audio Samples & Method Analyses</strong>), there are some samples of common performance demonstration and comparison experiments.</li>
+<li>In the third section (<strong>More Samples</strong>), we provide more samples of different aspects (e.g., comparisons of different editing positions).</li>
 <li>Our research is based on the open-source dataset OpenSinger, and all experiments conducted in the paper have been authorized by the publisher. This project is currently only used for research, and aims to make contributions and provides some ideas for the community. Please do not used for commercial purposes.</li>
 ## 1 Audio Samples
 *Notes:* <br>
